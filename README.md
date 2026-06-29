@@ -12,6 +12,11 @@ Academic institutions need a reliable way to track student enrolments and academ
 This project implements a **Student Management System** using SQLite. It models students, courses, and their enrolment relationships, then uses advanced SQL techniques — Common Table Expressions (CTEs) and Window Functions — to extract meaningful insights from the data.
 
 ---
+## ERD Digram
+<img width="807" height="450" alt="image" src="https://github.com/user-attachments/assets/e7293f8d-7384-40e7-8b6d-06b0267e294b" />
+### relsations
+`Students 1 ──── N Enrollments N ──── 1 Courses`
+
 
 ## Database Schema
 

@@ -14,7 +14,9 @@ This project implements a **Student Management System** using SQLite. It models 
 ---
 ## ERD Digram
 <img width="807" height="450" alt="image" src="https://github.com/user-attachments/assets/e7293f8d-7384-40e7-8b6d-06b0267e294b" />
+
 ### relsations
+
 `Students 1 ──── N Enrollments N ──── 1 Courses`
 
 
